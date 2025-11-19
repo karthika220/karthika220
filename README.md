@@ -2,10 +2,6 @@
 <h1 align="center">🌟 Hi, I'm <span style="color:#ff66c4;">Karthika</span> 🌟</h1>
 <h3 align="center">💻 Aspiring Software Developer | Electronics & Communication Engineer</h3>
 
-<div align="center">
-  <img src="https://i.imgur.com/As0lZkX.gif" width="400"/>
-</div>
-
 ---
 
 ## 💫 **About Me**
