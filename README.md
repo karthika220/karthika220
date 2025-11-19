@@ -72,18 +72,6 @@
 
 ---
 
-## 🎉 **Fun Animations**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karthika220&theme=radical&no-frame=true&margin-w=10" />
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/h6O7fVg.gif" width="300"/>
-</div>
-
----
-
 ## 📫 **Connect With Me**
 <p>
   <a href="#"><img src="https://img.shields.io/badge/Email-ff66c4?style=for-the-badge&logo=gmail&logoColor=white"></a>
